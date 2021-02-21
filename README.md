@@ -4,4 +4,4 @@
 
 This is the base project for the app you can build following [this article][article].
 
-[article]:https://insert.article.com
+[article]:https://dev.to/aouahib/step-up-your-redux-game-with-typescript-1g3e
